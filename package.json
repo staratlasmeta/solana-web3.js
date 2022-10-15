@@ -62,7 +62,7 @@
     "test:live-with-test-validator": "start-server-and-test 'solana-test-validator --reset --quiet' http://localhost:8899/health test:live"
   },
   "dependencies": {
-    "@babel/runtime": "^7.12.5",
+    "@babel/runtime": "^7.19.0",
     "@solana/buffer-layout": "^3.0.0",
     "bn.js": "^5.0.0",
     "borsh": "^0.4.0",
